@@ -1,0 +1,6 @@
+These are the code files for the Netduino PIR Motion control project on:
+http://wendellinfinity.wordpress.com/2011/04/10/home-alone-netduino-wireless-motion-alarm-project/
+
+Alarm.cs is the code file for the console application reading from the Xbee on the PC.
+
+Sensor.cs is the code file for the Netduino.
